@@ -1,4 +1,6 @@
 <template>
+    <Head><Title>Server Name</Title></Head>
+
     <div class="flex">
         <div class="overflow-y-scroll h-screen">
             <ul class="menu p-2 bg-base-300 min-h-screen menu-compact">

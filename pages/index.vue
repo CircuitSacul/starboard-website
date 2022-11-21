@@ -1,5 +1,7 @@
 <template>
     <Html class="bg-black"></Html>
+    <Head><Title>About</Title></Head>
+
     <NavBar isHome />
 
     <div class="hero min-h-screen py-16">

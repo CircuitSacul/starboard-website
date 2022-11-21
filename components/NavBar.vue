@@ -7,8 +7,9 @@
         <div class="navbar-center hidden md:flex">
             <NuxtLink to="/" class="btn btn-ghost btn-sm">About</NuxtLink>
             <NuxtLink to="/servers" class="btn btn-ghost btn-sm">Dashboard</NuxtLink>
-            <NuxtLink to="/invite" class="btn btn-ghost btn-sm">Invite</NuxtLink>
-            <NuxtLink to="/support" class="btn btn-ghost btn-sm">Support</NuxtLink>
+            <NuxtLink to="/invite" target="_blank" class="btn btn-ghost btn-sm">Invite</NuxtLink>
+            <NuxtLink to="/support" target="_blank" class="btn btn-ghost btn-sm">Support</NuxtLink>
+            <NuxtLink to="/docs" target="_blank" class="btn btn-ghost btn-sm">Docs</NuxtLink>
             <NuxtLink to="/premium" class="btn btn-ghost btn-sm">Premium</NuxtLink>
         </div>
 
